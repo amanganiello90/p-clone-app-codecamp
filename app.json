@@ -1,0 +1,8 @@
+{
+  "name": "Pinterest Clone Club",
+  "description": "A Node.js app for ecommerce.",
+  "repository": "https://github.com/amanganiello90/p-clone-app-codecamp",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
